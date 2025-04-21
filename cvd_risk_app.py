@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # PRIME logo in top‑right
-st.image("349593A8-ED6E-4A0C-A5E5-0AA5BC03B24B.png", width=60)
+st.image("logo.png", width=60)
 
 st.title("SMART CVD Risk Reduction Calculator")
 st.markdown("**Created by Samuel Panday — 21/04/2025**")
